@@ -1043,3 +1043,53 @@ label {
   font-size: 1.6em !important;
   font-weight: 600;
 } 
+
+.img-profile {
+  max-width: 150px;
+  position: absolute;
+  top: -90px;
+  left: 30%;
+}
+
+.mt-6, .my-6 {
+  margin-top: 4rem!important;
+}
+
+.mb-6, .my-6 {
+  margin-bottom: 4rem!important;
+}
+
+.nav-profile {
+    background-color: rgb(0, 0, 0) !important;
+    color: rgb(255, 255, 255) !important;
+    border-radius: 0px !important;
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+}
+
+.nav-pills.nav-pills-primary .nav-item .nav-link.active, .nav-pills.nav-pills-primary .nav-item .nav-link.active:focus, .nav-pills.nav-pills-primary .nav-item .nav-link.active:hover {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+  .stars-profile {
+    position: absolute;
+    top: 3px;
+    right: 15px;
+}
+
+.text-xs {
+  font-size: 12px;
+}
+
+.nav-link-card-profile.active {
+  background-color: #000000;
+  border-radius: 1rem;
+  color: #ECECEC;
+}
+
+.nav-link-card-profile {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  color: #313131;
+}

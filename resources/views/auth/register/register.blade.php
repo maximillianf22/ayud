@@ -39,7 +39,7 @@
                                     </div>
                                     <input type="text" class="form-control input-md" placeholder="Correo">
                                 </div>
-                                <label>telefono</label>
+                                <label>Telefono</label>
                                 <div class="input-group">
                                     <div class="input-group-prepend">
                                         <span class="input-group-text"><i class="fas fa-phone"></i></span>
@@ -49,7 +49,7 @@
                                 <label>Edad</label>
                                 <div class="input-group">
                                     <div class="input-group-prepend">
-                                        <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                                        <span class="input-group-text"><i class="fas fa-user"></i></span>
                                     </div>
                                     <input type="number" class="form-control input-md" placeholder="Edad">
                                 </div>

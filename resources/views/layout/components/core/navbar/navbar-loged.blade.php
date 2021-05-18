@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-white fixed-top navbar-transparent p-0 m-0" color-on-scroll="400">
+<nav class="navbar navbar-expand-lg bg-white fixed-top p-0 m-0">
     <div class="container">
       <div class="navbar-translate px-3 px-lg-0">
         <a class="navbar-brand" href="/">

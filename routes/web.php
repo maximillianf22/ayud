@@ -40,3 +40,7 @@ Route::view('/inicio', 'system.home');
 
 //Payment pages
 Route::view('/pagar', 'payment.pay');
+
+//Profile pages
+Route::view('/perfil', 'profile.profile');
+
